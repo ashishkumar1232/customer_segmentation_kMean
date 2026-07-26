@@ -1,5 +1,19 @@
 # 🛍️ Customer Segmentation using K-Means Clustering
 
+## 🌐 Live Demo
+
+🚀 **Try the application here:**
+
+https://customersegmentationkmean.streamlit.app/
+
+---
+
+## 📌 Project Overview
+
+This project uses the K-Means Clustering algorithm to segment customers based on their **Annual Income** and **Spending Score**. The application is built using **Python**, **Scikit-learn**, and **Streamlit**, allowing users to visualize customer clusters interactively.
+
+# 🛍️ Customer Segmentation using K-Means Clustering
+
 A Machine Learning web application that segments customers into different groups based on their **Annual Income** and **Spending Score** using the **K-Means Clustering** algorithm. The application is built with **Python**, **Scikit-learn**, and **Streamlit**, making it easy to visualize customer segments through an interactive interface.
 
 ---
